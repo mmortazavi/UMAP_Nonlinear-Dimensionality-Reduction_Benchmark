@@ -6,11 +6,12 @@ Objective: I aim to compare the newly developed UMAP for Nonlinear Dimensionalit
 
 The content:
 
-Swiss Roll Data
-Severed Sphere
-Handwritten Digits
-Half-Moon Data
-Concentric Circles
+- Swiss Roll Data
+- Severed Sphere
+- Handwritten Digits
+- Half-Moon Data
+- Concentric Circles
+
 First let's quickly look at the abstract of the UMAP paper:
 
 UMAP (Uniform Manifold Approximation and Projection) is a novel manifold learning technique for dimension reduction. UMAP is constructed from a theoretical framework based in Riemannian geometry and algebraic topology. The result is a practical scalable algorithm that applies to real world data. The UMAP algorithm is competitive with t-SNE for visualization quality, and arguably preserves more of the global structure with superior run time performance. Furthermore, UMAP as described has no computational restrictions on embedding dimension, making it viable as a general purpose dimension reduction technique for machine learning.
